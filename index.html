@@ -31,10 +31,94 @@
   </header>
 
   <section class="banner">
-    <div class="container">
+    <div class="container banner__container">
       <h1 class="banner__title">Night Owls</h1>
       <p class="banner__description">In our institution you can have a good time, relax, try our cocktails and entertainment</p>
     </div>
+  </section>
+
+  <section class="about">
+    <div class="container about__container">
+      <h3 class="about__title">Welcome to Night Owls</h3>
+      <p class="about__description">In Night Owls you’ll find yourself in an atmosphere where you can have fun and have a good rest. We’ll try to make you feel it.</p>
+      <div class="about__item">
+        <div class="item__wrap-img">
+          <a href="#" class="about__item-icon">
+            <svg width="54" height="57" viewBox="0 0 54 57" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <rect width="54" height="57" fill="url(#pattern0)"/>
+              <defs>
+              <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+              <use xlink:href="#image0_8_45" transform="scale(0.0185185 0.0175439)"/>
+              </pattern>
+              <image id="image0_8_45" width="54" height="57" xlink:href="data:image/png;base64,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"/>
+              </defs>
+              </svg>
+          </a>
+          <p class="item__text">Music, Dance floor</p>
+        </div>
+        <div class="item__wrap-img">
+          <a href="#" class="about__item-icon">
+            
+              
+          </a>
+            <p class="item__text">Food and drinks</p>
+        </div>
+        <div class="item__wrap-img">
+          <a href="#" class="about__item-icon">
+            
+          </a>
+            <p class="item__text">PlayStation</p>
+        </div>
+        <div class="item__wrap-img">
+          <a href="#" class="about__item-icon">
+            
+          </a>
+            <p class="item__text">Comfort</p>
+        </div>
+        <div class="item__wrap-img">
+          <a href="#" class="about__item-icon">
+            <svg width="60" height="53" viewBox="0 0 60 53" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <rect width="60" height="53" fill="url(#pattern0)"/>
+              <defs>
+              <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+              <use xlink:href="#image0_8_47" transform="scale(0.0166667 0.0188679)"/>
+              </pattern>
+              <image id="image0_8_47" width="60" height="53" xlink:href="data:image/png;base64,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"/>
+              </defs>
+              </svg>
+              
+          </a>
+            <p class="item__text">Alcoholic cocktails</p>
+        </div>
+        <div class="item__wrap-img">
+          <a href="#" class="about__item-icon">
+            <svg width="55" height="49" viewBox="0 0 55 49" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <rect width="55" height="49" fill="url(#pattern0)"/>
+              <defs>
+              <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+              <use xlink:href="#image0_8_50" transform="scale(0.0181818 0.0204082)"/>
+              </pattern>
+              <image id="image0_8_50" width="55" height="49" xlink:href="data:image/png;base64,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"/>
+              </defs>
+              </svg>
+              
+          </a>
+            <p class="item__text">Free Wi-Fi</p>
+        </div>
+      </div>
+      <div class="about__button">
+        <a href="#" class="button__active">Reserve a table</a>
+        <a href="#" class="button__unactive">Institution rules</a>
+      </div>
+      <div class="about__ogranich">
+        <div class="about__wrap-img">
+          <a href="#" class="about__icon">18+</a>
+        </div>
+        <p class="about__ogranich-desc">Persons under the age of 18 aren’t allowed</p>
+      </div>
+    </div>
+      <img src="img/left.png" alt="left" class="image-left">
+      <img src="img/right.png" alt="right" class="image-right">
   </section>
 
 </body>
