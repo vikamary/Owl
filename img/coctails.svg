@@ -1,9 +1,26 @@
-<svg width="50" height="58" viewBox="0 0 50 58" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="50" height="58" fill="url(#pattern0)"/>
-<defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_8_49" transform="scale(0.02 0.0172414)"/>
-</pattern>
-<image id="image0_8_49" width="50" height="58" xlink:href="data:image/png;base64,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"/>
-</defs>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="64.000000pt" height="64.000000pt" viewBox="0 0 64.000000 64.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,64.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M318 563 c-28 -14 -37 -46 -18 -58 6 -3 10 -28 10 -56 0 -42 -3 -49
+-20 -49 -35 0 -60 -35 -60 -85 l0 -45 -39 0 c-21 0 -43 -6 -49 -12 -15 -19 13
+-170 35 -185 11 -9 60 -13 155 -13 184 0 178 -5 178 170 0 117 -2 132 -20 150
+-11 11 -29 20 -40 20 -17 0 -20 7 -20 49 0 28 5 53 10 56 21 13 9 44 -22 59
+-37 19 -64 19 -100 -1z m112 -33 c0 -6 -27 -10 -60 -10 -33 0 -60 4 -60 10 0
+6 27 10 60 10 33 0 60 -4 60 -10z m-18 -87 c3 -58 3 -58 38 -63 23 -3 36 -11
+38 -22 3 -16 -8 -18 -118 -18 -110 0 -121 2 -118 18 2 11 15 19 38 22 35 5 35
+5 38 63 l3 57 39 0 39 0 3 -57z m78 -132 c0 -5 -6 -12 -12 -14 -10 -4 -9 -8 2
+-16 13 -10 13 -12 0 -21 -13 -9 -13 -11 0 -20 13 -9 13 -11 0 -20 -13 -9 -13
+-11 0 -20 13 -9 13 -11 0 -21 -11 -8 -12 -12 -2 -16 33 -13 4 -23 -68 -23 -44
+0 -80 3 -80 8 1 4 5 27 10 52 10 56 0 70 -51 70 -35 0 -39 3 -39 25 l0 25 120
+0 c66 0 120 -4 120 -9z m-160 -71 c0 -6 -37 -10 -90 -10 -53 0 -90 4 -90 10 0
+6 37 10 90 10 53 0 90 -4 90 -10z m-11 -77 c-16 -85 -14 -83 -79 -83 -65 0
+-63 -2 -79 83 l-8 47 87 0 87 0 -8 -47z m169 -60 c-4 -21 -64 -31 -81 -14 -6
+6 -28 11 -50 11 -23 0 -36 4 -32 10 3 6 42 10 86 10 71 0 80 -2 77 -17z"/>
+</g>
 </svg>

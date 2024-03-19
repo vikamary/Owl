@@ -1,9 +1,26 @@
-<svg width="60" height="53" viewBox="0 0 60 53" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="60" height="53" fill="url(#pattern0)"/>
-<defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_8_47" transform="scale(0.0166667 0.0188679)"/>
-</pattern>
-<image id="image0_8_47" width="60" height="53" xlink:href="data:image/png;base64,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"/>
-</defs>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="64.000000pt" height="64.000000pt" viewBox="0 0 64.000000 64.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,64.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M246 552 c-3 -3 -6 -60 -6 -127 l0 -122 -82 -28 c-46 -15 -94 -38
+-108 -52 -24 -22 -24 -25 -10 -51 22 -38 70 -48 143 -30 52 14 57 14 57 -2 0
+-11 17 -22 51 -32 l51 -17 116 40 c64 22 126 49 136 59 19 19 19 20 2 39 -33
+36 -145 48 -228 25 -16 -5 -18 4 -18 95 0 61 4 101 10 101 6 0 10 -30 10 -70
+0 -66 2 -71 26 -82 21 -10 31 -9 52 3 60 33 46 156 -21 198 -36 22 -173 62
+-181 53z m75 -28 c114 -33 149 -66 149 -139 0 -52 -15 -75 -50 -75 l-30 0 0
+64 c0 68 -17 101 -45 90 -12 -5 -15 -39 -17 -178 l-3 -172 -32 8 -33 9 0 204
+c0 113 1 205 3 205 2 0 28 -7 58 -16z m-81 -253 c0 -13 -14 -24 -47 -36 -27
+-10 -54 -22 -60 -28 -36 -27 8 -43 65 -23 35 13 42 13 42 1 0 -17 -90 -38
+-139 -33 -41 4 -61 29 -45 55 8 13 145 75 182 82 1 1 2 -7 2 -18z m315 -35
+c63 -27 48 -40 -107 -92 -88 -29 -98 -31 -98 -15 0 13 19 23 75 41 42 13 80
+29 86 36 17 21 -22 25 -84 9 -32 -8 -63 -15 -68 -15 -21 0 -3 34 21 41 44 12
+140 9 175 -5z m-315 -6 c0 -14 -55 -40 -82 -39 -17 0 -10 7 27 24 60 29 55 27
+55 15z m230 -24 c0 -2 -27 -13 -60 -24 -33 -12 -60 -17 -60 -12 0 5 19 14 43
+20 23 6 47 13 52 15 15 5 25 6 25 1z"/>
+</g>
 </svg>
